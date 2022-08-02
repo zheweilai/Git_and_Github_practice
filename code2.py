@@ -1,0 +1,1 @@
+print("No pain no gain")
